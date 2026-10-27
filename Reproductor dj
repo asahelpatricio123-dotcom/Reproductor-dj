@@ -1,0 +1,16 @@
+DeckMix DJ
+
+Mi reproductor DJ para Android.
+
+Funciones
+
+- Dos decks independientes.
+- Crossfader para mezclar canciones.
+- Ecualizador de bajos, medios y agudos.
+- Cargar música desde el teléfono.
+- Beat Sync.
+- Scratch táctil.
+- Control de BPM y tempo.
+- Loops y efectos de audio.
+
+Proyecto Android creado con Kotlin.
